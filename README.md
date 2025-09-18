@@ -27,10 +27,7 @@ O projeto é desenvolvido utilizando as seguintes tecnologias:
 - **Testes de API**: Insomnia.
 
 ## Print da Interface
-
-Abaixo está um exemplo da interface do sistema, mostrando o cadastro e a lista de pacientes:
-
-"C:\Users\mylen\OneDrive\Imagens\Screenshots\Sistema consultorio.png"
+No arquivo vai ter um arquivo com o nome "Sistema consultorio.png" clicando nele você pdoera vizualizar um print do sistema.
 
 ## Estrutura do Projeto
 
